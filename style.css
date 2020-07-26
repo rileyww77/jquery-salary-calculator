@@ -1,0 +1,55 @@
+table{
+    border-collapse: collapse;
+    background-color: seashell;
+    margin-top: 10px;
+}
+
+table, th, td{
+    
+    border: 1px solid black;
+    padding: 5px;
+    
+    
+}
+
+body, header {
+    background-color: white;
+}
+table, th {
+    font-family: Avantgarde;
+}
+
+.overBudget{
+    background-color: #ff5050;
+
+}
+
+footer{
+    
+    float:right;
+}
+
+body {
+    background-color: rosybrown;
+}
+
+body, section {
+    background-color: rosybrown;
+}
+
+header{
+    font-family: Didot;
+    background-color: snow;
+}
+
+section, footer{
+    background-color: snow;
+    margin: 0px;
+    padding: 0px;
+    border: 1px solid black;
+
+}
+
+p{
+    background-color: snow;
+}
